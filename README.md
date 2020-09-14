@@ -1,1 +1,18 @@
-Meteor Deobfuscated ezzzzzzz
+Meteor Client Platinum Edition
+
+# Meteor Client Platinum Edition
+![Discord](https://img.shields.io/discord/689197705683140636)
+![GitHub last commit](https://img.shields.io/github/last-commit/MineGame159/meteor-client)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/MineGame159/meteor-client)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MineGame159/meteor-client)
+![GitHub lines of code](https://tokei.rs/b1/github/MineGame159/meteor-client)
+![GitHub contributors](https://img.shields.io/github/contributors/MineGame159/meteor-client)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MineGame159/meteor-client/Java%20CI%20with%20Gradle)
+
+## Thank you
+[ZeroMemes](https://github.com/ZeroMemes) for [Alpine](https://github.com/ZeroMemes/Alpine)  
+[Earthcomputer](https://github.com/Earthcomputer) for [Multiconnect](https://github.com/Earthcomputer/multiconnect)  
+[Cabaletta](https://github.com/cabaletta) for [Baritone](https://github.com/cabaletta/baritone)  
+[CDAGaming](https://gitlab.com/CDAGaming) for [Fabritone](https://gitlab.com/CDAGaming/fabritone)  
+[Vatuu](https://github.com/Vatuu) for [Discord Rpc](https://github.com/Vatuu/discord-rpc)  
+The [Fabric Team](https://github.com/FabricMC) for [Fabric](https://github.com/FabricMC/fabric-loader) and [Yarn](https://github.com/FabricMC/yarn)

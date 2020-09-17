@@ -2,11 +2,11 @@ Meteor Client Platinum Edition
 
 # Meteor Client Platinum Edition
 ![Discord](https://img.shields.io/discord/689197705683140636)
-![GitHub last commit](https://img.shields.io/github/last-commit/MineGame159/meteor-client)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/MineGame159/meteor-client)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MineGame159/meteor-client)
-![GitHub lines of code](https://tokei.rs/b1/github/MineGame159/meteor-client)
-![GitHub contributors](https://img.shields.io/github/contributors/MineGame159/meteor-client)
+![GitHub last commit](https://img.shields.io/github/last-commit/BestMod/meteor-client-platinum-edition)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/BestMod/meteor-client-platinum-edition)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BestMod/meteor-client-platinum-edition)
+![GitHub lines of code](https://tokei.rs/b1/github/BestMod/meteor-client-platinum-edition)
+![GitHub contributors](https://img.shields.io/github/contributors/BestMod/meteor-client-platinum-edition)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MineGame159/meteor-client/Java%20CI%20with%20Gradle)
 
 ## Thank you
